@@ -75,6 +75,6 @@ I resonded with this:
 
 From there I learned that Caleb was trying to build the next generation of "cyber security high acheivers". He wanted to take the hundreds of applications he received and boil them down to a small group of people to work together. Caleb had the ability to give us opportunities that could accelerate our career and learning, but he wanted to give it to the right people. Caleb led the application through a "interview process" by giving a takehome assignement in the form of a research paper and then an interview. 
 
-## I was one of the junior professionals that was selected.
+<b> I was one of the junior professionals that was selected. <b>
 
 In this gitrepo I will document each of the project I do with Caleb and share my key learnings
